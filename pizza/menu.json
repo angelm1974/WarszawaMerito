@@ -1,0 +1,7 @@
+[
+    {"nazwa": "Margherita", "skladniki": ["sos pomidorowy", "ser mozzarella", "bazylia"]},
+    {"nazwa": "Pepperoni", "skladniki": ["sos pomidorowy", "ser mozzarella", "pepperoni"]},
+    {"nazwa": "Hawajska", "skladniki": ["sos pomidorowy", "ser mozzarella", "szynka", "ananas"]},
+    {"nazwa": "Wegetariańska", "skladniki": ["sos pomidorowy", "ser mozzarella", "papryka", "cebula", "pieczarki", "oliwki"]},
+    {"nazwa": "Cztery sery", "skladniki": ["sos pomidorowy", "ser mozzarella", "ser gorgonzola", "ser parmezan", "ser feta"]}
+]
